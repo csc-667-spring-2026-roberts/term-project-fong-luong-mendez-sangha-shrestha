@@ -1,4 +1,4 @@
-# Team Name — Game Name
+# Team 15 — Sorry!
 
 CSC 667 Term Project — Spring 2026
 
@@ -6,7 +6,7 @@ CSC 667 Term Project — Spring 2026
 
 | Name | GitHub | Email |
 |------|--------|-------|
-| Member 1 | @username | email@sfsu.edu |
+| Bryan Mendez | BryanMz04 | bmendez5@sfsu.edu |
 | Member 2 | @username | email@sfsu.edu |
 | Member 3 | @username | email@sfsu.edu |
 | Member 4 | @username | email@sfsu.edu |
