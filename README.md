@@ -8,7 +8,7 @@ CSC 667 Term Project — Spring 2026
 |------|--------|-------|
 | Bryan Mendez | BryanMz04 | bmendez5@sfsu.edu |
 | Bikendra Shrestha | bikendrashrestha07| bshrestha1@sfsu.edu |
-| Member 3 | @username | email@sfsu.edu |
+| Austin Luong | al-7777 | aluong12@sfsu.edu |
 | Member 4 | @username | email@sfsu.edu |
 
 ## Setup
