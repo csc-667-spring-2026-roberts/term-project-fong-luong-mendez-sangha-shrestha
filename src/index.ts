@@ -4,6 +4,8 @@ import { fileURLToPath } from "url";
 import homeRoutes from "./routes/home.js";
 import loggingMiddleware from "./middleware/logging.js";
 
+import testRoutes from "./routes/test.js";
+
 const app = express();
 // Use PORT environment variable if set, otherwise default to 3000
 const PORT = process.env.PORT ? parseInt(process.env.PORT) : 3000;
@@ -20,6 +22,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(loggingMiddleware);
 app.use("/", homeRoutes);
+app.use("/test", testRoutes);
 
 // Start the server
 app.listen(PORT, () => {
